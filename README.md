@@ -1,1 +1,1 @@
-# .github
+organization profile readme :)
