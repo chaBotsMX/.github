@@ -1,4 +1,4 @@
-![](https://www.talent-network.org/comunidades/wp-content/uploads/2019/06/TN-comunidades-chaBots.png)
+![](https://github.com/chaBotsMX/.github/blob/main/profile/chaBotsPhoto.png)
 
 
 Welcome! We are chaBots
