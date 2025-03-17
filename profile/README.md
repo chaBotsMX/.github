@@ -1,8 +1,6 @@
+<h1 align="center">Welcome! We are chaBotsMX</h1>
+
 ![](https://github.com/chaBotsMX/.github/blob/main/profile/chaBotsPhoto.png)
-
-
-Welcome! We are chaBots
-======================================
 
 An independent student robotics group based in San Luis Potosí, Mexico. We believe competitions are the best way to learn robotics. We have been participating in Robotics competitions such as World Robot Olympiad, RoboCup, MakeX, OMI and TMR since 2015.
 
